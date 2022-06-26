@@ -1,0 +1,118 @@
+*,
+*::before,
+*::after { box-sizing:border-box; }
+a { text-decoration:none; color:inherit; cursor:pointer; }
+button { background-color:transparent; color:inherit; border-width:0; padding:0; cursor:pointer; }
+figure{ margin:0; }
+ul, ol, dd { margin:0; padding:0; list-style:none; }
+h1, h2, h3, h4, h5, h6 { margin:0; font-size:inherit; font-weight:inherit; }
+p { margin:0; }
+cite { font-style:normal; }
+fieldset { border-width:0; padding:0; margin:0; }
+
+div {
+    color: crimson;
+}
+
+
+h2 {
+    color: goldenrod;
+}
+
+h3 {
+    color: gold;
+}
+
+h4 {
+    color: black ;
+}
+
+ span {
+    color: greenyellow; 
+}
+
+aside {
+    color: darkslateblue;
+}
+article {
+    color: magenta;
+}
+
+
+nav {
+    color: black;
+}
+
+time {
+    color: green;
+}
+
+figcaption {
+    color: lightblue;
+}
+
+ul {
+    font-style: italic;
+}
+
+.pinktext {
+    color: pink;
+}
+
+.violettext {
+    color: violet;
+}
+.indigotext {
+    color: darkviolet;
+}
+.bluetext {
+    color: blue;
+}
+.greentext {
+    color: green;
+}
+.yellowtext {
+    color: yellow;
+}
+.orangetext {
+    color: orange;
+}
+.redtex {
+    color: red;
+}
+.darkgreen {
+    color: darkseagreen;
+}
+.silvertetext {
+    color: silver;
+}
+
+.familytext {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.sizetext {
+    font-size: x-large;
+}
+  article p {
+    font-size: small;
+ }
+
+ nav a {
+    color: grey;
+    font-size: smaller;
+ }
+
+ section h2 {
+    font-weight: 600;
+    font-style: oblique;
+ }
+  p.darkgreen {
+    font-size: larger;
+  }
+
+  #centertime {
+    text-align: center;
+    font-weight: 600;
+    font-size: x-large;
+  }
