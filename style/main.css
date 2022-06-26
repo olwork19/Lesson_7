@@ -116,3 +116,11 @@ ul {
     font-weight: 600;
     font-size: x-large;
   }
+
+  section img {
+    width: 50%;
+  }
+  
+  figure img {
+    width: 25%;
+  }
